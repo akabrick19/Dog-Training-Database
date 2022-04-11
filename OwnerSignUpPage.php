@@ -25,6 +25,9 @@
         <label for="classSearch"> Class ID:</label>
         <input type="search" name="classSearch" id="classSearch">
         <input type="submit" value="Search" id="classSearchBtn">
+        
+        
+        <input type='hidden' value="<?php echo $id; ?>" name='id'>
 
     
     </form>
