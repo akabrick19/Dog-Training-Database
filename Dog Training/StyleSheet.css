@@ -1,0 +1,20 @@
+body{
+
+    background-color: aqua;
+    
+    }
+    
+    h1{
+    
+        border: 1px solid rgb(67, 102, 208);
+        background-color: rgb(67, 102, 208) ;
+    }
+    
+    nav a{
+    
+        border: 1px solid rgb(67, 102, 208);
+        background-color: rgb(67, 102, 208) ;
+        text-decoration: none black;
+        margin-bottom: 10px;
+    
+    }
